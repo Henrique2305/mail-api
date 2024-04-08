@@ -27,3 +27,5 @@ Com o corpo da requisição:
     "subject": "teste Mailtrap"
 }
 ```
+
+## Postagem no TabNews referente ao projeto: https://www.tabnews.com.br/HenriqueFS23/criando-uma-api-com-spring-boot-para-o-envio-de-e-mail
