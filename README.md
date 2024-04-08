@@ -10,6 +10,7 @@ Nesse projeto criei uma API Rest, utilizando o Spring Boot e a sua biblioteca de
 
 - ``Java 17``
 - ``Spring Boot``
+- ``Mailtrap``
 
 ## Modo de uso
 
